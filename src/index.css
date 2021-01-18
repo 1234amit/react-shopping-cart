@@ -201,3 +201,26 @@ footer{
   background-color:#E74C3C;
   border-radius: 5px;
 }
+
+/*Checkout page design*/
+
+form{
+  width: 100%;
+}
+
+.form-control{
+  width:100%;
+  list-style-type: none;
+  padding: 0;
+}
+
+.form-control li{
+  display:flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+input{
+  padding:1rem;
+  border:1px solid #c0c0c0;
+  border-radius:5px;
+}
